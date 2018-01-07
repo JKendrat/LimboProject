@@ -1,0 +1,40 @@
+*{
+background-color: crimson;
+    font-family: "Times New Roman";
+}
+
+table, th, td, tr{
+    border: 3px solid black;
+    margin: auto;
+    text-align: center;
+    Padding: 15px;
+    font-size: 20px;
+}
+.ListedItems{
+    text-align: center;
+}
+a{
+    color: white;
+    
+}
+a:hover{
+    text-decoration: none;
+    background-color: white;
+    color: black;
+}
+
+.Submit{
+ margin: auto;
+    text-align: center;
+    padding: 10px;
+}
+H1{
+    text-align: center;
+}
+H2{
+    text-align: center;
+}
+H3{
+    text-align: center;
+}
+

@@ -1,0 +1,15 @@
+*{
+    background: crimson;
+    font-family: "Times New Roman";
+    text-align: center;
+    
+}
+a{
+    color: white;
+}
+a:hover{
+    text-decoration: none;
+    
+    background-color: white;
+    color: black;
+}
